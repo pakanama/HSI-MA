@@ -10,7 +10,8 @@ Deng Y, Zhang Y, Shi X. 2025 Refining swarm behaviors with human-swarm interacti
 Please include the citation in any publications, presentations, or reports that result from the use of this repository. It helps acknowledge the original work and enables proper attribution to the authors.
 
 # Usage Instructions
-Currently the objective function file "objj.m" contains only one function. Users can modify it with fucntion type and number, then adjust "HSI_MA.m" accordingly.   
+The repository contains 1) "HSI_MA.m" with HSI-MA agorithm and 2) "objj.m" with the objective function.
+Users can modify "objj.m" with fucntion type and number, then adjust "HSI_MA.m" accordingly.   
 
 # Support and Issues
 If you encounter any issues, have questions, or need further assistance regarding the code or materials in this repository, please feel free to open an issue or contact the authors directly.
